@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/CryptoTracker.Application/CryptoTracker.Application.csproj" />
+    <Project Path="src/CryptoTracker.Infrastructure/CryptoTracker.Infrastructure.csproj" />
+    <Project Path="src/CryptoTracker.Presentation/CryptoTracker.Presentation.csproj" />
+  </Folder>
+</Solution>
